@@ -8,7 +8,7 @@
 
 Este repositorio contiene las tareas del Bootcamp 👨‍💻
 
-[Ver ejercicio ](https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-JS-2611-ta32.git/)  
+[Ver ejercicio ](https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-JS-2611-ta32/)  
 
 ### Rules of use 🚀
 
