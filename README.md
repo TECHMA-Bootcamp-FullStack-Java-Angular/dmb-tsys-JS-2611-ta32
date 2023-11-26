@@ -8,18 +8,18 @@
 
 Este repositorio contiene las tareas del Bootcamp 👨‍💻
 
-[Ver ejercicio ](https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-bootstrap-2611-ta31/)  
+[Ver ejercicio ](https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-JS-2611-ta32.git/)  
 
 ### Rules of use 🚀
 
 - Run the clone repository in your terminal:
 
-``git clone https://github.com/d-maza/dmb-tsys-bootstrap-2611-ta31``
+``git clone https:/github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-JS-2611-ta32.git``
 
 
 - Access the folder with the command:
 
-`cd dmb-tsys-bootstrap-2611-ta31`
+`cd dmb-tsys-JS-2611-ta32.git`
 
 - Open the repository with your IDE
 
