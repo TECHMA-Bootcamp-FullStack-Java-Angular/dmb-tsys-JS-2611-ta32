@@ -4,7 +4,7 @@
 
 ![My etiqueta](https://img.shields.io/badge/David%20Maza-DiveCode%F0%9F%90%99-blue) ![UD](https://img.shields.io/badge/TA-32-orange)  ![Java Version](https://img.shields.io/badge/JavaScript-red)
 
-# UD31 – Bootstrap
+# UD32 – JavaScript
 
 Este repositorio contiene las tareas del Bootcamp 👨‍💻
 
@@ -15,7 +15,6 @@ Este repositorio contiene las tareas del Bootcamp 👨‍💻
 - Run the clone repository in your terminal:
 
 ``git clone https:/github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-JS-2611-ta32.git``
-
 
 - Access the folder with the command:
 
